@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0977-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/abhayxxmm1/Leet/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
