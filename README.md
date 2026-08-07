@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhayxxmm1/Leet/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhayxxmm1/Leet/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/abhayxxmm1/Leet/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
