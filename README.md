@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/abhayxxmm1/Leet/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/abhayxxmm1/Leet/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/abhayxxmm1/Leet/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayxxmm1/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhayxxmm1/Leet/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhayxxmm1/Leet/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
