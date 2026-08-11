@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayxxmm1/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/abhayxxmm1/Leet/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/abhayxxmm1/Leet/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/abhayxxmm1/Leet/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/abhayxxmm1/Leet/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/abhayxxmm1/Leet/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/abhayxxmm1/Leet/tree/master/0263-ugly-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhayxxmm1/Leet/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/abhayxxmm1/Leet/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abhayxxmm1/Leet/tree/master/0231-power-of-two) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/abhayxxmm1/Leet/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
