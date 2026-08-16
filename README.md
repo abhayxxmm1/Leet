@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhayxxmm1/Leet/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/abhayxxmm1/Leet/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/abhayxxmm1/Leet/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/abhayxxmm1/Leet/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abhayxxmm1/Leet/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/abhayxxmm1/Leet/tree/master/0326-power-of-three) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
