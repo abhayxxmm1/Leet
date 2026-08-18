@@ -1,16 +1,12 @@
 class Solution {
     public int consecutiveNumbersSum(int n) {
-        int count = 0;
-        long k = 1;
-
-        while (k * (k - 1) / 2 < n) {
-            long remaining = n - k * (k - 1) / 2;
-            if (remaining % k == 0) {
+        int  count = 0;
+        for(int k = 1; 2*n > k*(k-1); k++){
+            int numerator = n - (k *(k-1)/2);
+            if(numerator % k == 0){
                 count++;
             }
-            k++;
         }
-
         return count;
     }
 }
