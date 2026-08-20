@@ -1,13 +1,21 @@
+import java.util.*;
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Set<Integer> seen = new HashSet<>();
+
+        HashSet<Integer> set = new HashSet<>();
 
         for (int num : nums) {
-            if (!seen.add(num)) {
+
+            // If the number already exists, duplicate found
+            if (set.contains(num)) {
                 return true;
             }
+
+            set.add(num);
         }
 
+        // No duplicates found
         return false;
     }
 }
