@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhayxxmm1/Leet/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/abhayxxmm1/Leet/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/abhayxxmm1/Leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayxxmm1/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhayxxmm1/Leet/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhayxxmm1/Leet/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhayxxmm1/Leet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
