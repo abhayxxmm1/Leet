@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhayxxmm1/Leet/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhayxxmm1/Leet/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/abhayxxmm1/Leet/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhayxxmm1/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhayxxmm1/Leet/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhayxxmm1/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abhayxxmm1/Leet/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/abhayxxmm1/Leet/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/abhayxxmm1/Leet/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhayxxmm1/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/abhayxxmm1/Leet/tree/master/0829-consecutive-numbers-sum) |
 ## Hash Table
 |  |
