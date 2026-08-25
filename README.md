@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/abhayxxmm1/Leet/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhayxxmm1/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/abhayxxmm1/Leet/tree/master/0829-consecutive-numbers-sum) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/abhayxxmm1/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,8 +119,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhayxxmm1/Leet/tree/master/0014-longest-common-prefix) |
 | [0415-add-strings](https://github.com/abhayxxmm1/Leet/tree/master/0415-add-strings) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/abhayxxmm1/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhayxxmm1/Leet/tree/master/0014-longest-common-prefix) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/abhayxxmm1/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/abhayxxmm1/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
