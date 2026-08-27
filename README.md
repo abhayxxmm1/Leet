@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/abhayxxmm1/Leet/tree/master/0829-consecutive-numbers-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhayxxmm1/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhayxxmm1/Leet/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1903-largest-odd-number-in-string](https://github.com/abhayxxmm1/Leet/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhayxxmm1/Leet/tree/master/0014-longest-common-prefix) |
 | [0415-add-strings](https://github.com/abhayxxmm1/Leet/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhayxxmm1/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/abhayxxmm1/Leet/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhayxxmm1/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/abhayxxmm1/Leet/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
