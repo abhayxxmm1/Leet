@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhayxxmm1/Leet/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/abhayxxmm1/Leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abhayxxmm1/Leet/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/abhayxxmm1/Leet/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayxxmm1/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhayxxmm1/Leet/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhayxxmm1/Leet/tree/master/0204-count-primes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhayxxmm1/Leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/abhayxxmm1/Leet/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
