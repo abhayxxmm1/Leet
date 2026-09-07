@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhayxxmm1/Leet/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhayxxmm1/Leet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abhayxxmm1/Leet/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/abhayxxmm1/Leet/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abhayxxmm1/Leet/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhayxxmm1/Leet/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/abhayxxmm1/Leet/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/abhayxxmm1/Leet/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhayxxmm1/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/abhayxxmm1/Leet/tree/master/1903-largest-odd-number-in-string) |
